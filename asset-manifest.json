@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chatzoid/static/css/main.2866ac40.css",
-    "main.js": "/chatzoid/static/js/main.d356679b.js",
+    "main.js": "/chatzoid/static/js/main.73665f12.js",
     "index.html": "/chatzoid/index.html",
     "main.2866ac40.css.map": "/chatzoid/static/css/main.2866ac40.css.map",
-    "main.d356679b.js.map": "/chatzoid/static/js/main.d356679b.js.map"
+    "main.73665f12.js.map": "/chatzoid/static/js/main.73665f12.js.map"
   },
   "entrypoints": [
     "static/css/main.2866ac40.css",
-    "static/js/main.d356679b.js"
+    "static/js/main.73665f12.js"
   ]
 }
